@@ -7,7 +7,7 @@ I'm currently studying Computer Science at Federal University of Espírito Santo
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="www.linkedin.com/in/felipe-da-costa-morais-19674a21a">
+  <a href="https://www.linkedin.com/in/felipe-da-costa-morais-19674a21a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:felipedcm16@gmail.com">
