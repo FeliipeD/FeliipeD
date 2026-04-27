@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=559ACF&width=435&height=35&lines=Hi+%F0%9F%91%8B%2C+Im+Felipe+Morais)](https://git.io/typing-svg)
 
-I'm currently studying Computer Science at Federal University of Espírito Santo (UFES) and working as a full-stack developer at Adapti - Soluções Web.
+I'm currently studying Computer Science at Federal University of Espírito Santo (UFES) and working as a full-stack web developer at Adapti - Soluções Web.
 
 ---
 
