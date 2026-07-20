@@ -46,6 +46,6 @@ I'm currently studying Computer Science at Federal University of Espírito Santo
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=feliiped&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliiped&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=feliiped&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=feliiped&layout=compact&theme=tokyonight" />
 </p>
